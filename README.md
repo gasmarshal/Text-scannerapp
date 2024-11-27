@@ -22,7 +22,7 @@ Aplikasi ini memungkinkan pengguna untuk menangkap gambar dari kamera, mendeteks
 ```bash
 # Clone atau Unduh Repository
 $ git clone https://github.com/gasmarshal/Text-scannerapp.git
-$ cd text-scanner-app
+$ cd text-scannerapp
 ```
 ```bash
 # Buka di Android Studio
